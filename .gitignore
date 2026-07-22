@@ -14,3 +14,6 @@ build/
 
 # Ignore heavy files
 Exemplo_Londres/London/full_listings.csv
+
+# Ignore files with API keys
+**/var.py
