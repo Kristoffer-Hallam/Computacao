@@ -17,3 +17,6 @@ Exemplo_Londres/London/full_listings.csv
 
 # Ignore files with API keys
 **/var.py
+
+
+Relatorios/IC/chat_copilot_swCreator_final.aux Relatorios/IC/chat_copilot_swCreator_final.log Relatorios/IC/chat_copilot_swCreator_final.pdf Relatorios/IC/chat_copilot_swCreator_final.synctex.gz Relatorios/IC/chat_copilot_swCreator_final.tex Relatorios/IC/document.tex
